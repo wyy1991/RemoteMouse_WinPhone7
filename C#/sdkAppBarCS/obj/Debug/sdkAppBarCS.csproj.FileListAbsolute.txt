@@ -1,0 +1,590 @@
+E:\2012fall\ece454\windowsExample\Application Bar Sample\C#\sdkAppBarCS\Bin\Debug\Images\delete.png
+E:\2012fall\ece454\windowsExample\Application Bar Sample\C#\sdkAppBarCS\Bin\Debug\Images\settings.png
+E:\2012fall\ece454\windowsExample\Application Bar Sample\C#\sdkAppBarCS\Bin\Debug\Images\help.png
+E:\2012fall\ece454\windowsExample\Application Bar Sample\C#\sdkAppBarCS\Bin\Debug\Images\save.png
+E:\2012fall\ece454\windowsExample\Application Bar Sample\C#\sdkAppBarCS\Bin\Debug\ApplicationIcon.png
+E:\2012fall\ece454\windowsExample\Application Bar Sample\C#\sdkAppBarCS\Bin\Debug\Background.png
+E:\2012fall\ece454\windowsExample\Application Bar Sample\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.dll
+E:\2012fall\ece454\windowsExample\Application Bar Sample\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.pdb
+E:\2012fall\ece454\windowsExample\Application Bar Sample\C#\sdkAppBarCS\Bin\Debug\AppManifest.xaml
+E:\2012fall\ece454\windowsExample\Application Bar Sample\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.xap
+E:\2012fall\ece454\windowsExample\Application Bar Sample\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\2012fall\ece454\windowsExample\Application Bar Sample\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\2012fall\ece454\windowsExample\Application Bar Sample\C#\sdkAppBarCS\obj\Debug\ResolveAssemblyReference.cache
+E:\2012fall\ece454\windowsExample\Application Bar Sample\C#\sdkAppBarCS\obj\Debug\App.g.i.cs
+E:\2012fall\ece454\windowsExample\Application Bar Sample\C#\sdkAppBarCS\obj\Debug\MainPage.g.i.cs
+E:\2012fall\ece454\windowsExample\Application Bar Sample\C#\sdkAppBarCS\obj\Debug\PanoramaPage.g.i.cs
+E:\2012fall\ece454\windowsExample\Application Bar Sample\C#\sdkAppBarCS\obj\Debug\PivotPage.g.i.cs
+E:\2012fall\ece454\windowsExample\Application Bar Sample\C#\sdkAppBarCS\obj\Debug\PlainPage.g.i.cs
+E:\2012fall\ece454\windowsExample\Application Bar Sample\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.g.resources
+E:\2012fall\ece454\windowsExample\Application Bar Sample\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.dll
+E:\2012fall\ece454\windowsExample\Application Bar Sample\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.pdb
+E:\2012fall\ece454\windowsExample\Application Bar Sample\C#\sdkAppBarCS\obj\Debug\XapCacheFile.xml
+E:\2012fall\ece454\windowsExample\Application Bar Sample\C#\sdkAppBarCS\obj\Debug\PageClicker.g.i.cs
+E:\2012fall\ece454\windowsExample\Application Bar Sample\C#\sdkAppBarCS\obj\Debug\Page3Dmouse.g.i.cs
+E:\2012fall\ece454\windowsExample\Application Bar Sample\C#\sdkAppBarCS\obj\Debug\Page2Dmouse.g.i.cs
+E:\2012fall\ece454\windowsExample\Application Bar Sample\C#\sdkAppBarCS\obj\Debug\PageFoot.g.i.cs
+E:\2012fall\ece454\windowsExample\Application Bar Sample\C#\sdkAppBarCS\Bin\Debug\Images\play2.png
+E:\2012fall\ece454\windowsExample\Application Bar Sample\C#\sdkAppBarCS\Bin\Debug\Images\home2.png
+E:\2012fall\ece454\windowsExample\Application Bar Sample\C#\sdkAppBarCS\Bin\Debug\Images\pause2.png
+E:\2012fall\ece454\windowsExample\Application Bar Sample\C#\sdkAppBarCS\Bin\Debug\Images\heart.png
+E:\2012fall\ece454\RmouseUI\C#\sdkAppBarCS\Bin\Debug\Images\delete.png
+E:\2012fall\ece454\RmouseUI\C#\sdkAppBarCS\Bin\Debug\Images\home2.png
+E:\2012fall\ece454\RmouseUI\C#\sdkAppBarCS\Bin\Debug\Images\pause2.png
+E:\2012fall\ece454\RmouseUI\C#\sdkAppBarCS\Bin\Debug\Images\play2.png
+E:\2012fall\ece454\RmouseUI\C#\sdkAppBarCS\Bin\Debug\Images\heart.png
+E:\2012fall\ece454\RmouseUI\C#\sdkAppBarCS\Bin\Debug\Images\settings.png
+E:\2012fall\ece454\RmouseUI\C#\sdkAppBarCS\Bin\Debug\Images\help.png
+E:\2012fall\ece454\RmouseUI\C#\sdkAppBarCS\Bin\Debug\Images\save.png
+E:\2012fall\ece454\RmouseUI\C#\sdkAppBarCS\Bin\Debug\ApplicationIcon.png
+E:\2012fall\ece454\RmouseUI\C#\sdkAppBarCS\Bin\Debug\Background.png
+E:\2012fall\ece454\RmouseUI\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.dll
+E:\2012fall\ece454\RmouseUI\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.pdb
+E:\2012fall\ece454\RmouseUI\C#\sdkAppBarCS\Bin\Debug\AppManifest.xaml
+E:\2012fall\ece454\RmouseUI\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.xap
+E:\2012fall\ece454\RmouseUI\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\2012fall\ece454\RmouseUI\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\2012fall\ece454\RmouseUI\C#\sdkAppBarCS\obj\Debug\ResolveAssemblyReference.cache
+E:\2012fall\ece454\RmouseUI\C#\sdkAppBarCS\obj\Debug\App.g.i.cs
+E:\2012fall\ece454\RmouseUI\C#\sdkAppBarCS\obj\Debug\MainPage.g.i.cs
+E:\2012fall\ece454\RmouseUI\C#\sdkAppBarCS\obj\Debug\Page3Dmouse.g.i.cs
+E:\2012fall\ece454\RmouseUI\C#\sdkAppBarCS\obj\Debug\Page2Dmouse.g.i.cs
+E:\2012fall\ece454\RmouseUI\C#\sdkAppBarCS\obj\Debug\PageFoot.g.i.cs
+E:\2012fall\ece454\RmouseUI\C#\sdkAppBarCS\obj\Debug\PageClicker.g.i.cs
+E:\2012fall\ece454\RmouseUI\C#\sdkAppBarCS\obj\Debug\PanoramaPage.g.i.cs
+E:\2012fall\ece454\RmouseUI\C#\sdkAppBarCS\obj\Debug\PivotPage.g.i.cs
+E:\2012fall\ece454\RmouseUI\C#\sdkAppBarCS\obj\Debug\PlainPage.g.i.cs
+E:\2012fall\ece454\RmouseUI\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.g.resources
+E:\2012fall\ece454\RmouseUI\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.dll
+E:\2012fall\ece454\RmouseUI\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.pdb
+E:\2012fall\ece454\RmouseUI\C#\sdkAppBarCS\obj\Debug\XapCacheFile.xml
+E:\2012fall\ece454\RmouseUI1\C#\sdkAppBarCS\Bin\Debug\Images\delete.png
+E:\2012fall\ece454\RmouseUI1\C#\sdkAppBarCS\Bin\Debug\Images\home2.png
+E:\2012fall\ece454\RmouseUI1\C#\sdkAppBarCS\Bin\Debug\Images\pause2.png
+E:\2012fall\ece454\RmouseUI1\C#\sdkAppBarCS\Bin\Debug\Images\play2.png
+E:\2012fall\ece454\RmouseUI1\C#\sdkAppBarCS\Bin\Debug\Images\heart.png
+E:\2012fall\ece454\RmouseUI1\C#\sdkAppBarCS\Bin\Debug\Images\settings.png
+E:\2012fall\ece454\RmouseUI1\C#\sdkAppBarCS\Bin\Debug\Images\help.png
+E:\2012fall\ece454\RmouseUI1\C#\sdkAppBarCS\Bin\Debug\Images\save.png
+E:\2012fall\ece454\RmouseUI1\C#\sdkAppBarCS\Bin\Debug\ApplicationIcon.png
+E:\2012fall\ece454\RmouseUI1\C#\sdkAppBarCS\Bin\Debug\Background.png
+E:\2012fall\ece454\RmouseUI1\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.dll
+E:\2012fall\ece454\RmouseUI1\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.pdb
+E:\2012fall\ece454\RmouseUI1\C#\sdkAppBarCS\Bin\Debug\AppManifest.xaml
+E:\2012fall\ece454\RmouseUI1\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.xap
+E:\2012fall\ece454\RmouseUI1\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\2012fall\ece454\RmouseUI1\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\2012fall\ece454\RmouseUI1\C#\sdkAppBarCS\obj\Debug\ResolveAssemblyReference.cache
+E:\2012fall\ece454\RmouseUI1\C#\sdkAppBarCS\obj\Debug\App.g.i.cs
+E:\2012fall\ece454\RmouseUI1\C#\sdkAppBarCS\obj\Debug\MainPage.g.i.cs
+E:\2012fall\ece454\RmouseUI1\C#\sdkAppBarCS\obj\Debug\Page3Dmouse.g.i.cs
+E:\2012fall\ece454\RmouseUI1\C#\sdkAppBarCS\obj\Debug\Page2Dmouse.g.i.cs
+E:\2012fall\ece454\RmouseUI1\C#\sdkAppBarCS\obj\Debug\PageFoot.g.i.cs
+E:\2012fall\ece454\RmouseUI1\C#\sdkAppBarCS\obj\Debug\PageClicker.g.i.cs
+E:\2012fall\ece454\RmouseUI1\C#\sdkAppBarCS\obj\Debug\PanoramaPage.g.i.cs
+E:\2012fall\ece454\RmouseUI1\C#\sdkAppBarCS\obj\Debug\PivotPage.g.i.cs
+E:\2012fall\ece454\RmouseUI1\C#\sdkAppBarCS\obj\Debug\PlainPage.g.i.cs
+E:\2012fall\ece454\RmouseUI1\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.g.resources
+E:\2012fall\ece454\RmouseUI1\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.dll
+E:\2012fall\ece454\RmouseUI1\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.pdb
+E:\2012fall\ece454\RmouseUI1\C#\sdkAppBarCS\obj\Debug\XapCacheFile.xml
+E:\2012fall\ece454\RmouseUI2\C#\sdkAppBarCS\obj\Debug\ResolveAssemblyReference.cache
+E:\2012fall\ece454\RmouseUI2\C#\sdkAppBarCS\obj\Debug\App.g.i.cs
+E:\2012fall\ece454\RmouseUI2\C#\sdkAppBarCS\obj\Debug\MainPage.g.i.cs
+E:\2012fall\ece454\RmouseUI2\C#\sdkAppBarCS\obj\Debug\Page3Dmouse.g.i.cs
+E:\2012fall\ece454\RmouseUI2\C#\sdkAppBarCS\obj\Debug\Page2Dmouse.g.i.cs
+E:\2012fall\ece454\RmouseUI2\C#\sdkAppBarCS\obj\Debug\PageFoot.g.i.cs
+E:\2012fall\ece454\RmouseUI2\C#\sdkAppBarCS\obj\Debug\PageClicker.g.i.cs
+E:\2012fall\ece454\RmouseUI2\C#\sdkAppBarCS\obj\Debug\PanoramaPage.g.i.cs
+E:\2012fall\ece454\RmouseUI2\C#\sdkAppBarCS\obj\Debug\PivotPage.g.i.cs
+E:\2012fall\ece454\RmouseUI2\C#\sdkAppBarCS\obj\Debug\PlainPage.g.i.cs
+E:\2012fall\ece454\RmouseUI2\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.g.resources
+E:\2012fall\ece454\RmouseUI2\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.dll
+E:\2012fall\ece454\RmouseUI2\C#\sdkAppBarCS\Bin\Debug\Images\delete.png
+E:\2012fall\ece454\RmouseUI2\C#\sdkAppBarCS\Bin\Debug\Images\home2.png
+E:\2012fall\ece454\RmouseUI2\C#\sdkAppBarCS\Bin\Debug\Images\pause2.png
+E:\2012fall\ece454\RmouseUI2\C#\sdkAppBarCS\Bin\Debug\Images\play2.png
+E:\2012fall\ece454\RmouseUI2\C#\sdkAppBarCS\Bin\Debug\Images\heart.png
+E:\2012fall\ece454\RmouseUI2\C#\sdkAppBarCS\Bin\Debug\Images\settings.png
+E:\2012fall\ece454\RmouseUI2\C#\sdkAppBarCS\Bin\Debug\Images\help.png
+E:\2012fall\ece454\RmouseUI2\C#\sdkAppBarCS\Bin\Debug\Images\save.png
+E:\2012fall\ece454\RmouseUI2\C#\sdkAppBarCS\Bin\Debug\ApplicationIcon.png
+E:\2012fall\ece454\RmouseUI2\C#\sdkAppBarCS\Bin\Debug\Background.png
+E:\2012fall\ece454\RmouseUI2\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.dll
+E:\2012fall\ece454\RmouseUI2\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.pdb
+E:\2012fall\ece454\RmouseUI2\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\2012fall\ece454\RmouseUI2\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\2012fall\ece454\RmouseUI2\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.pdb
+E:\2012fall\ece454\RmouseUI2\C#\sdkAppBarCS\Bin\Debug\AppManifest.xaml
+E:\2012fall\ece454\RmouseUI2\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.xap
+E:\2012fall\ece454\RmouseUI2\C#\sdkAppBarCS\obj\Debug\XapCacheFile.xml
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\sdkAppBarCS\Bin\Debug\Images\delete.png
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\sdkAppBarCS\Bin\Debug\Images\home2.png
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\sdkAppBarCS\Bin\Debug\Images\pause2.png
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\sdkAppBarCS\Bin\Debug\Images\play2.png
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\sdkAppBarCS\Bin\Debug\Images\heart.png
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\sdkAppBarCS\Bin\Debug\Images\settings.png
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\sdkAppBarCS\Bin\Debug\Images\help.png
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\sdkAppBarCS\Bin\Debug\Images\save.png
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\sdkAppBarCS\Bin\Debug\ApplicationIcon.png
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\sdkAppBarCS\Bin\Debug\Background.png
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.dll
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.pdb
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\sdkAppBarCS\Bin\Debug\AppManifest.xaml
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.xap
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\sdkAppBarCS\obj\Debug\ResolveAssemblyReference.cache
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\sdkAppBarCS\obj\Debug\App.g.i.cs
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\sdkAppBarCS\obj\Debug\MainPage.g.i.cs
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\sdkAppBarCS\obj\Debug\Page2Dmouse.g.i.cs
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\sdkAppBarCS\obj\Debug\Page3Dmouse.g.i.cs
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\sdkAppBarCS\obj\Debug\PageFoot.g.i.cs
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\sdkAppBarCS\obj\Debug\PageClicker.g.i.cs
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\sdkAppBarCS\obj\Debug\PanoramaPage.g.i.cs
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\sdkAppBarCS\obj\Debug\PivotPage.g.i.cs
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\sdkAppBarCS\obj\Debug\PlainPage.g.i.cs
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.g.resources
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.dll
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.pdb
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\sdkAppBarCS\obj\Debug\XapCacheFile.xml
+E:\2012fall\ece454\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\Images\delete.png
+E:\2012fall\ece454\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\Images\home2.png
+E:\2012fall\ece454\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\Images\pause2.png
+E:\2012fall\ece454\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\Images\play2.png
+E:\2012fall\ece454\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\Images\heart.png
+E:\2012fall\ece454\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\Images\settings.png
+E:\2012fall\ece454\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\Images\help.png
+E:\2012fall\ece454\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\Images\save.png
+E:\2012fall\ece454\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\ApplicationIcon.png
+E:\2012fall\ece454\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\Background.png
+E:\2012fall\ece454\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.dll
+E:\2012fall\ece454\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.pdb
+E:\2012fall\ece454\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\AppManifest.xaml
+E:\2012fall\ece454\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.xap
+E:\2012fall\ece454\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\2012fall\ece454\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\2012fall\ece454\RmouseUI5\C#\sdkAppBarCS\obj\Debug\ResolveAssemblyReference.cache
+E:\2012fall\ece454\RmouseUI5\C#\sdkAppBarCS\obj\Debug\App.g.i.cs
+E:\2012fall\ece454\RmouseUI5\C#\sdkAppBarCS\obj\Debug\Page2Dmouse.g.i.cs
+E:\2012fall\ece454\RmouseUI5\C#\sdkAppBarCS\obj\Debug\Page3Dmouse.g.i.cs
+E:\2012fall\ece454\RmouseUI5\C#\sdkAppBarCS\obj\Debug\PageFoot.g.i.cs
+E:\2012fall\ece454\RmouseUI5\C#\sdkAppBarCS\obj\Debug\PageClicker.g.i.cs
+E:\2012fall\ece454\RmouseUI5\C#\sdkAppBarCS\obj\Debug\PanoramaPage.g.i.cs
+E:\2012fall\ece454\RmouseUI5\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.g.resources
+E:\2012fall\ece454\RmouseUI5\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.dll
+E:\2012fall\ece454\RmouseUI5\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.pdb
+E:\2012fall\ece454\RmouseUI5\C#\sdkAppBarCS\obj\Debug\XapCacheFile.xml
+E:\2012fall\ece454\RmouseUI5\C#\sdkAppBarCS\obj\Debug\HelpPage.g.i.cs
+C:\Users\Chun\Desktop\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\Images\delete.png
+C:\Users\Chun\Desktop\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\Images\home2.png
+C:\Users\Chun\Desktop\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\Images\pause2.png
+C:\Users\Chun\Desktop\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\Images\play2.png
+C:\Users\Chun\Desktop\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\Images\heart.png
+C:\Users\Chun\Desktop\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\Images\settings.png
+C:\Users\Chun\Desktop\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\Images\help.png
+C:\Users\Chun\Desktop\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\Images\save.png
+C:\Users\Chun\Desktop\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\ApplicationIcon.png
+C:\Users\Chun\Desktop\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\Background.png
+C:\Users\Chun\Desktop\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.dll
+C:\Users\Chun\Desktop\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.pdb
+C:\Users\Chun\Desktop\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\AppManifest.xaml
+C:\Users\Chun\Desktop\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.xap
+C:\Users\Chun\Desktop\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Chun\Desktop\RmouseUI5\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Chun\Desktop\RmouseUI5\C#\sdkAppBarCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chun\Desktop\RmouseUI5\C#\sdkAppBarCS\obj\Debug\App.g.i.cs
+C:\Users\Chun\Desktop\RmouseUI5\C#\sdkAppBarCS\obj\Debug\Page2Dmouse.g.i.cs
+C:\Users\Chun\Desktop\RmouseUI5\C#\sdkAppBarCS\obj\Debug\Page3Dmouse.g.i.cs
+C:\Users\Chun\Desktop\RmouseUI5\C#\sdkAppBarCS\obj\Debug\PageFoot.g.i.cs
+C:\Users\Chun\Desktop\RmouseUI5\C#\sdkAppBarCS\obj\Debug\PageClicker.g.i.cs
+C:\Users\Chun\Desktop\RmouseUI5\C#\sdkAppBarCS\obj\Debug\PanoramaPage.g.i.cs
+C:\Users\Chun\Desktop\RmouseUI5\C#\sdkAppBarCS\obj\Debug\HelpPage.g.i.cs
+C:\Users\Chun\Desktop\RmouseUI5\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.g.resources
+C:\Users\Chun\Desktop\RmouseUI5\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.dll
+C:\Users\Chun\Desktop\RmouseUI5\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.pdb
+C:\Users\Chun\Desktop\RmouseUI5\C#\sdkAppBarCS\obj\Debug\XapCacheFile.xml
+C:\Users\Chun\Desktop\RmouseUI5\C#\sdkAppBarCS\obj\Debug\Page2DmouseControl.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\sdkAppBarCS\Bin\Debug\Images\delete.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\sdkAppBarCS\Bin\Debug\Images\home2.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\sdkAppBarCS\Bin\Debug\Images\pause2.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\sdkAppBarCS\Bin\Debug\Images\play2.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\sdkAppBarCS\Bin\Debug\Images\heart.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\sdkAppBarCS\Bin\Debug\Images\settings.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\sdkAppBarCS\Bin\Debug\Images\help.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\sdkAppBarCS\Bin\Debug\Images\save.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\sdkAppBarCS\Bin\Debug\ApplicationIcon.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\sdkAppBarCS\Bin\Debug\Background.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.dll
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\sdkAppBarCS\Bin\Debug\AppManifest.xaml
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.xap
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\sdkAppBarCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\sdkAppBarCS\obj\Debug\App.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\sdkAppBarCS\obj\Debug\Page2Dmouse.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\sdkAppBarCS\obj\Debug\Page2DmouseControl.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\sdkAppBarCS\obj\Debug\Page3Dmouse.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\sdkAppBarCS\obj\Debug\PageFoot.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\sdkAppBarCS\obj\Debug\PageClicker.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\sdkAppBarCS\obj\Debug\PanoramaPage.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\sdkAppBarCS\obj\Debug\HelpPage.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.g.resources
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.dll
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\sdkAppBarCS\obj\Debug\XapCacheFile.xml
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\sdkAppBarCS\Bin\Debug\Images\delete.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\sdkAppBarCS\Bin\Debug\Images\home2.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\sdkAppBarCS\Bin\Debug\Images\pause2.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\sdkAppBarCS\Bin\Debug\Images\play2.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\sdkAppBarCS\Bin\Debug\Images\heart.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\sdkAppBarCS\Bin\Debug\Images\settings.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\sdkAppBarCS\Bin\Debug\Images\help.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\sdkAppBarCS\Bin\Debug\Images\save.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\sdkAppBarCS\Bin\Debug\ApplicationIcon.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\sdkAppBarCS\Bin\Debug\Background.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.dll
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\sdkAppBarCS\Bin\Debug\AppManifest.xaml
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.xap
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\sdkAppBarCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\sdkAppBarCS\obj\Debug\App.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\sdkAppBarCS\obj\Debug\Page2Dmouse.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\sdkAppBarCS\obj\Debug\Page2DmouseControl.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\sdkAppBarCS\obj\Debug\Page3Dmouse.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\sdkAppBarCS\obj\Debug\PageFoot.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\sdkAppBarCS\obj\Debug\PageClicker.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\sdkAppBarCS\obj\Debug\PanoramaPage.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\sdkAppBarCS\obj\Debug\HelpPage.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.g.resources
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.dll
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\sdkAppBarCS\obj\Debug\XapCacheFile.xml
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\sdkAppBarCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\sdkAppBarCS\obj\Debug\App.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\sdkAppBarCS\obj\Debug\Page2Dmouse.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\sdkAppBarCS\obj\Debug\Page2DmouseControl.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\sdkAppBarCS\obj\Debug\Page3Dmouse.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\sdkAppBarCS\obj\Debug\PageClicker.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\sdkAppBarCS\obj\Debug\PanoramaPage.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\sdkAppBarCS\obj\Debug\HelpPage.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.g.resources
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.dll
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\sdkAppBarCS\Bin\Debug\Images\delete.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\sdkAppBarCS\Bin\Debug\Images\home2.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\sdkAppBarCS\Bin\Debug\Images\pause2.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\sdkAppBarCS\Bin\Debug\Images\play2.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\sdkAppBarCS\Bin\Debug\Images\heart.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\sdkAppBarCS\Bin\Debug\Images\settings.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\sdkAppBarCS\Bin\Debug\Images\help.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\sdkAppBarCS\Bin\Debug\Images\save.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\sdkAppBarCS\Bin\Debug\ApplicationIcon.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\sdkAppBarCS\Bin\Debug\Background.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.dll
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\sdkAppBarCS\Bin\Debug\AppManifest.xaml
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.xap
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\sdkAppBarCS\obj\Debug\XapCacheFile.xml
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\sdkAppBarCS\obj\Debug\PageLegControl.g.i.cs
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\Images\delete.png
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\Images\home2.png
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\Images\pause2.png
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\Images\play2.png
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\Images\heart.png
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\Images\settings.png
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\Images\help.png
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\Images\save.png
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\ApplicationIcon.png
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\Background.png
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.dll
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.pdb
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\AppManifest.xaml
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.xap
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\sdkAppBarCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\sdkAppBarCS\obj\Debug\App.g.i.cs
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\sdkAppBarCS\obj\Debug\Page2Dmouse.g.i.cs
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\sdkAppBarCS\obj\Debug\Page2DmouseControl.g.i.cs
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\sdkAppBarCS\obj\Debug\Page3Dmouse.g.i.cs
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\sdkAppBarCS\obj\Debug\PageClicker.g.i.cs
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\sdkAppBarCS\obj\Debug\PageLegControl.g.i.cs
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\sdkAppBarCS\obj\Debug\PanoramaPage.g.i.cs
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\sdkAppBarCS\obj\Debug\HelpPage.g.i.cs
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.g.resources
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.dll
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.pdb
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\sdkAppBarCS\obj\Debug\XapCacheFile.xml
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\Images\delete.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\Images\home2.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\Images\pause2.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\Images\play2.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\Images\heart.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\Images\settings.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\Images\help.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\Images\save.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\ApplicationIcon.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\Background.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.dll
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\AppManifest.xaml
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.xap
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\sdkAppBarCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\sdkAppBarCS\obj\Debug\App.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\sdkAppBarCS\obj\Debug\Page2Dmouse.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\sdkAppBarCS\obj\Debug\Page2DmouseControl.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\sdkAppBarCS\obj\Debug\Page3Dmouse.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\sdkAppBarCS\obj\Debug\PageClicker.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\sdkAppBarCS\obj\Debug\PageLegControl.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\sdkAppBarCS\obj\Debug\PanoramaPage.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\sdkAppBarCS\obj\Debug\HelpPage.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.g.resources
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.dll
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\sdkAppBarCS\obj\Debug\XapCacheFile.xml
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\sdkAppBarCS\Bin\Debug\Images\delete.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\sdkAppBarCS\Bin\Debug\Images\home2.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\sdkAppBarCS\Bin\Debug\Images\pause2.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\sdkAppBarCS\Bin\Debug\Images\play2.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\sdkAppBarCS\Bin\Debug\Images\heart.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\sdkAppBarCS\Bin\Debug\Images\settings.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\sdkAppBarCS\Bin\Debug\Images\help.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\sdkAppBarCS\Bin\Debug\Images\save.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\sdkAppBarCS\Bin\Debug\ApplicationIcon.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\sdkAppBarCS\Bin\Debug\Background.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.dll
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\sdkAppBarCS\Bin\Debug\AppManifest.xaml
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.xap
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\sdkAppBarCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\sdkAppBarCS\obj\Debug\App.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\sdkAppBarCS\obj\Debug\Page2Dmouse.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\sdkAppBarCS\obj\Debug\Page2DmouseControl.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\sdkAppBarCS\obj\Debug\Page3Dmouse.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\sdkAppBarCS\obj\Debug\PageClicker.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\sdkAppBarCS\obj\Debug\PageLegControl.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\sdkAppBarCS\obj\Debug\PanoramaPage.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\sdkAppBarCS\obj\Debug\HelpPage.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.g.resources
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.dll
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\sdkAppBarCS\obj\Debug\XapCacheFile.xml
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\sdkAppBarCS\Bin\Debug\Images\delete.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\sdkAppBarCS\Bin\Debug\Images\home2.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\sdkAppBarCS\Bin\Debug\Images\pause2.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\sdkAppBarCS\Bin\Debug\Images\play2.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\sdkAppBarCS\Bin\Debug\Images\heart.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\sdkAppBarCS\Bin\Debug\Images\settings.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\sdkAppBarCS\Bin\Debug\Images\help.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\sdkAppBarCS\Bin\Debug\Images\save.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\sdkAppBarCS\Bin\Debug\ApplicationIcon.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\sdkAppBarCS\Bin\Debug\Background.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.dll
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\sdkAppBarCS\Bin\Debug\AppManifest.xaml
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.xap
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\sdkAppBarCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\sdkAppBarCS\obj\Debug\App.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\sdkAppBarCS\obj\Debug\Page2Dmouse.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\sdkAppBarCS\obj\Debug\Page2DmouseControl.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\sdkAppBarCS\obj\Debug\Page3Dmouse.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\sdkAppBarCS\obj\Debug\PageClicker.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\sdkAppBarCS\obj\Debug\PageLegControl.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\sdkAppBarCS\obj\Debug\PanoramaPage.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\sdkAppBarCS\obj\Debug\HelpPage.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.g.resources
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.dll
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\sdkAppBarCS\obj\Debug\XapCacheFile.xml
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\delete.png
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\home2.png
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\pause2.png
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\play2.png
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\heart.png
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\settings.png
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\help.png
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\save.png
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\sdkAppBarCS\Bin\Debug\ApplicationIcon.png
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Background.png
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.dll
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.pdb
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\sdkAppBarCS\obj\Debug\ResolveAssemblyReference.cache
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\sdkAppBarCS\obj\Debug\App.g.i.cs
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\sdkAppBarCS\obj\Debug\Page2Dmouse.g.i.cs
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\sdkAppBarCS\obj\Debug\Page2DmouseControl.g.i.cs
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\sdkAppBarCS\obj\Debug\Page3Dmouse.g.i.cs
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\sdkAppBarCS\obj\Debug\PageClicker.g.i.cs
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\sdkAppBarCS\obj\Debug\PageLegControl.g.i.cs
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\sdkAppBarCS\obj\Debug\PanoramaPage.g.i.cs
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\sdkAppBarCS\obj\Debug\HelpPage.g.i.cs
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\sdkAppBarCS\obj\Debug\TouchPad.g.i.cs
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.g.resources
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.dll
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.pdb
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\sdkAppBarCS\Bin\Debug\AppManifest.xaml
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.xap
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\sdkAppBarCS\obj\Debug\XapCacheFile.xml
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\delete.png
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\home2.png
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\pause2.png
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\play2.png
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\heart.png
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\settings.png
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\help.png
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\save.png
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\ApplicationIcon.png
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Background.png
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.dll
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.pdb
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\AppManifest.xaml
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.xap
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\ResolveAssemblyReference.cache
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\App.g.i.cs
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\Page2Dmouse.g.i.cs
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\Page2DmouseControl.g.i.cs
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\Page3Dmouse.g.i.cs
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\PageClicker.g.i.cs
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\PageLegControl.g.i.cs
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\PanoramaPage.g.i.cs
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\HelpPage.g.i.cs
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\TouchPad.g.i.cs
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.g.resources
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.dll
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.pdb
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\XapCacheFile.xml
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\delete.png
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\home2.png
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\pause2.png
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\play2.png
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\heart.png
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\settings.png
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\help.png
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\save.png
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\ApplicationIcon.png
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Background.png
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.dll
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.pdb
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\AppManifest.xaml
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.xap
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\ResolveAssemblyReference.cache
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\App.g.i.cs
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\Page2Dmouse.g.i.cs
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\Page2DmouseControl.g.i.cs
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\Page3Dmouse.g.i.cs
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\PageClicker.g.i.cs
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\PageLegControl.g.i.cs
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\PanoramaPage.g.i.cs
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\HelpPage.g.i.cs
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\TouchPad.g.i.cs
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.g.resources
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.dll
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.pdb
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\XapCacheFile.xml
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\delete.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\home2.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\pause2.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\play2.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\heart.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\settings.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\help.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Images\save.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\ApplicationIcon.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Background.png
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.dll
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\AppManifest.xaml
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.xap
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\App.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\Page2Dmouse.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\Page2DmouseControl.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\Page3Dmouse.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\PageClicker.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\PageLegControl.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\PanoramaPage.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\HelpPage.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\TouchPad.g.i.cs
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.g.resources
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.dll
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\sdkAppBarCS\obj\Debug\XapCacheFile.xml
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\sdkAppBarCS\Bin\Debug\Images\delete.png
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\sdkAppBarCS\Bin\Debug\Images\home2.png
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\sdkAppBarCS\Bin\Debug\Images\pause2.png
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\sdkAppBarCS\Bin\Debug\Images\play2.png
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\sdkAppBarCS\Bin\Debug\Images\heart.png
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\sdkAppBarCS\Bin\Debug\Images\settings.png
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\sdkAppBarCS\Bin\Debug\Images\help.png
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\sdkAppBarCS\Bin\Debug\Images\save.png
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\sdkAppBarCS\Bin\Debug\ApplicationIcon.png
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\sdkAppBarCS\Bin\Debug\Background.png
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.dll
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.pdb
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\sdkAppBarCS\Bin\Debug\AppManifest.xaml
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.xap
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\sdkAppBarCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\sdkAppBarCS\obj\Debug\App.g.i.cs
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\sdkAppBarCS\obj\Debug\Page2Dmouse.g.i.cs
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\sdkAppBarCS\obj\Debug\Page2DmouseControl.g.i.cs
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\sdkAppBarCS\obj\Debug\Page3Dmouse.g.i.cs
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\sdkAppBarCS\obj\Debug\PageClicker.g.i.cs
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\sdkAppBarCS\obj\Debug\PageLegControl.g.i.cs
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\sdkAppBarCS\obj\Debug\PanoramaPage.g.i.cs
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\sdkAppBarCS\obj\Debug\HelpPage.g.i.cs
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\sdkAppBarCS\obj\Debug\TouchPad.g.i.cs
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.g.resources
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.dll
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.pdb
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\sdkAppBarCS\obj\Debug\XapCacheFile.xml
+C:\Users\Chun\Desktop\Rmouse_Final\C#\sdkAppBarCS\Bin\Debug\Images\delete.png
+C:\Users\Chun\Desktop\Rmouse_Final\C#\sdkAppBarCS\Bin\Debug\Images\home2.png
+C:\Users\Chun\Desktop\Rmouse_Final\C#\sdkAppBarCS\Bin\Debug\Images\pause2.png
+C:\Users\Chun\Desktop\Rmouse_Final\C#\sdkAppBarCS\Bin\Debug\Images\play2.png
+C:\Users\Chun\Desktop\Rmouse_Final\C#\sdkAppBarCS\Bin\Debug\Images\heart.png
+C:\Users\Chun\Desktop\Rmouse_Final\C#\sdkAppBarCS\Bin\Debug\Images\settings.png
+C:\Users\Chun\Desktop\Rmouse_Final\C#\sdkAppBarCS\Bin\Debug\Images\help.png
+C:\Users\Chun\Desktop\Rmouse_Final\C#\sdkAppBarCS\Bin\Debug\Images\save.png
+C:\Users\Chun\Desktop\Rmouse_Final\C#\sdkAppBarCS\Bin\Debug\ApplicationIcon.png
+C:\Users\Chun\Desktop\Rmouse_Final\C#\sdkAppBarCS\Bin\Debug\Background.png
+C:\Users\Chun\Desktop\Rmouse_Final\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.dll
+C:\Users\Chun\Desktop\Rmouse_Final\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.pdb
+C:\Users\Chun\Desktop\Rmouse_Final\C#\sdkAppBarCS\Bin\Debug\AppManifest.xaml
+C:\Users\Chun\Desktop\Rmouse_Final\C#\sdkAppBarCS\Bin\Debug\sdkAppBarCS.xap
+C:\Users\Chun\Desktop\Rmouse_Final\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Chun\Desktop\Rmouse_Final\C#\sdkAppBarCS\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Chun\Desktop\Rmouse_Final\C#\sdkAppBarCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chun\Desktop\Rmouse_Final\C#\sdkAppBarCS\obj\Debug\App.g.i.cs
+C:\Users\Chun\Desktop\Rmouse_Final\C#\sdkAppBarCS\obj\Debug\Page2Dmouse.g.i.cs
+C:\Users\Chun\Desktop\Rmouse_Final\C#\sdkAppBarCS\obj\Debug\Page2DmouseControl.g.i.cs
+C:\Users\Chun\Desktop\Rmouse_Final\C#\sdkAppBarCS\obj\Debug\Page3Dmouse.g.i.cs
+C:\Users\Chun\Desktop\Rmouse_Final\C#\sdkAppBarCS\obj\Debug\PageClicker.g.i.cs
+C:\Users\Chun\Desktop\Rmouse_Final\C#\sdkAppBarCS\obj\Debug\PageLegControl.g.i.cs
+C:\Users\Chun\Desktop\Rmouse_Final\C#\sdkAppBarCS\obj\Debug\PanoramaPage.g.i.cs
+C:\Users\Chun\Desktop\Rmouse_Final\C#\sdkAppBarCS\obj\Debug\HelpPage.g.i.cs
+C:\Users\Chun\Desktop\Rmouse_Final\C#\sdkAppBarCS\obj\Debug\TouchPad.g.i.cs
+C:\Users\Chun\Desktop\Rmouse_Final\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.g.resources
+C:\Users\Chun\Desktop\Rmouse_Final\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.dll
+C:\Users\Chun\Desktop\Rmouse_Final\C#\sdkAppBarCS\obj\Debug\sdkAppBarCS.pdb
+C:\Users\Chun\Desktop\Rmouse_Final\C#\sdkAppBarCS\obj\Debug\XapCacheFile.xml

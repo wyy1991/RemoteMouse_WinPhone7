@@ -1,0 +1,92 @@
+<!-- Yuye Wang did the page design coding -->
+<phone:PhoneApplicationPage 
+    x:Class="sdkAppBarCS.PanoramaPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="728"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="False">
+
+    <!--LayoutRoot contains the root grid where all other page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <controls:Panorama x:Name="PanoControl" Title="remote mouse">
+            <controls:Panorama.Background>
+                <ImageBrush ImageSource= "Images/background6_2.jpg"/>
+            </controls:Panorama.Background>
+
+            <!--Panorama item one-->
+            <controls:PanoramaItem Name="Item1" Header="home">
+                <ScrollViewer x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+                    <StackPanel>
+
+                        <TextBlock Text="Welcome to remote mouse!" />
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Please enter your IP address and choose" />
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="a mode to start." />
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal"></StackPanel>
+                    </StackPanel>
+                </ScrollViewer>
+            </controls:PanoramaItem>
+
+            <!--Panorama item two-->
+            <controls:PanoramaItem Name="Item2"  Header="settings">
+                <StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Name="txtIPmsg" Text="Please enter your IP address" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="IP address" FontSize="28" VerticalAlignment="Center" />
+                        <TextBox Height="71" Name="textBoxIP" Text="" Width="460" />
+                    </StackPanel>
+                    
+                    <StackPanel></StackPanel>
+                    <Button Content="Connect" Height="72" Name="buttonConnect" Width="160" Click="buttonConnect_Click" />
+                </StackPanel>
+            </controls:PanoramaItem>
+
+            <!--Panorama item three-->
+            <controls:PanoramaItem Name="Item3" Header="modes">
+
+                <StackPanel>
+                    
+                    <StackPanel Orientation="Horizontal">
+                        <Button Content="clicker" Height="130" Name="buttonClicker" Width="180" Click="buttonClicker_Click" />
+                        <Button Content="mouse2d" Height="130" Name="button2DMouse" Width="180" Click="button2DMouse_Click"  />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Button Content="mouse3d" Height="130" Name="button3DMouse" Width="180" Click="button3DMouse_Click"/>
+                        <Button Content="foot" Height="130" Name="buttonFoot" Width="180" Click="buttonFoot_Click"  />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Button Content="touchpad" Height="130" Name="buttonTouchPad" Width="180" Click="buttonTouchPad_Click"  />
+                       
+                    </StackPanel>
+                   
+                </StackPanel>
+            </controls:PanoramaItem>
+        </controls:Panorama>
+    </Grid>
+
+    <!--Panorama-based applications should not show an ApplicationBar-->
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True" Mode="Minimized" Opacity="1.0" >
+
+            <shell:ApplicationBarIconButton IconUri="/Images/home2.png" Text="home" Click="Button1_Click" />
+            <shell:ApplicationBarIconButton IconUri="/Images/play2.png" Text="play" Click="Button2_Click" />
+            <shell:ApplicationBarIconButton IconUri="/Images/settings.png" Text="settings" Click="Button3_Click" />
+            <shell:ApplicationBarIconButton IconUri="/Images/help.png" Text="help" Click="Button4_Click" />
+
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+</phone:PhoneApplicationPage>

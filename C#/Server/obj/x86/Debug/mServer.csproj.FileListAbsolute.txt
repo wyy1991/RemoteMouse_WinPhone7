@@ -1,0 +1,137 @@
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\myTest1\Server\obj\x86\Debug\xxf_Server.exe
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\myTest1\Server\obj\x86\Debug\xxf_Server.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\myTest1\Server\bin\Debug\xxf_Server.exe
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\myTest1\Server\bin\Debug\xxf_Server.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\myTest1\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\mRemoteMouse\Server\obj\x86\Debug\xxf_Server.exe
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\mRemoteMouse\Server\obj\x86\Debug\xxf_Server.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\mRemoteMouse\Server\bin\Debug\xxf_Server.exe
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\mRemoteMouse\Server\bin\Debug\xxf_Server.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\mRemoteMouse\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\badger-mouse-remote\Server\obj\x86\Debug\xxf_Server.exe
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\badger-mouse-remote\Server\obj\x86\Debug\xxf_Server.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\badger-mouse-remote\Server\bin\Debug\xxf_Server.exe
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\badger-mouse-remote\Server\bin\Debug\xxf_Server.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\badger-mouse-remote\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\2012fall\ece454\3d mouse 1.7 with separated files\3d mouse 1.7 with separated files\Server\obj\x86\Debug\xxf_Server.exe
+E:\2012fall\ece454\3d mouse 1.7 with separated files\3d mouse 1.7 with separated files\Server\obj\x86\Debug\xxf_Server.pdb
+E:\2012fall\ece454\3d mouse 1.7 with separated files\3d mouse 1.7 with separated files\Server\bin\Debug\xxf_Server.exe
+E:\2012fall\ece454\3d mouse 1.7 with separated files\3d mouse 1.7 with separated files\Server\bin\Debug\xxf_Server.pdb
+E:\2012fall\ece454\3d mouse 1.7 with separated files\3d mouse 1.7 with separated files\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\2012fall\ece454\RmouseUI1\C#\Server\obj\x86\Debug\xxf_Server.exe
+E:\2012fall\ece454\RmouseUI1\C#\Server\obj\x86\Debug\xxf_Server.pdb
+E:\2012fall\ece454\RmouseUI2\C#\Server\obj\x86\Debug\xxf_Server.exe
+E:\2012fall\ece454\RmouseUI2\C#\Server\obj\x86\Debug\xxf_Server.pdb
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\Server\obj\x86\Debug\xxf_Server.exe
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\Server\obj\x86\Debug\xxf_Server.pdb
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\Server\bin\Debug\xxf_Server.exe
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\Server\bin\Debug\xxf_Server.pdb
+E:\2012fall\ece454\RmouseUI3\RmouseUI3\C#\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\2012fall\ece454\RmouseUI5\C#\Server\obj\x86\Debug\xxf_Server.exe
+E:\2012fall\ece454\RmouseUI5\C#\Server\obj\x86\Debug\xxf_Server.pdb
+C:\Users\Chun\Desktop\RmouseUI5\C#\Server\obj\x86\Debug\xxf_Server.exe
+C:\Users\Chun\Desktop\RmouseUI5\C#\Server\obj\x86\Debug\xxf_Server.pdb
+C:\Users\Chun\Desktop\RmouseUI5\C#\Server\bin\Debug\xxf_Server.exe
+C:\Users\Chun\Desktop\RmouseUI5\C#\Server\bin\Debug\xxf_Server.pdb
+C:\Users\Chun\Desktop\RmouseUI5\C#\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\Server\obj\x86\Debug\xxf_Server.exe
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\Server\obj\x86\Debug\xxf_Server.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\Server\bin\Debug\xxf_Server.exe
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\Server\bin\Debug\xxf_Server.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV8\C#\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\Server\obj\x86\Debug\xxf_Server.exe
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\Server\obj\x86\Debug\xxf_Server.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\Server\bin\Debug\xxf_Server.exe
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\Server\bin\Debug\xxf_Server.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\Server\obj\x86\Debug\xxf_Server.mainServer.resources
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV9\C#\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\Server\obj\x86\Debug\xxf_Server.exe
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\Server\obj\x86\Debug\xxf_Server.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\Server\bin\Debug\xxf_Server.exe
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\Server\bin\Debug\xxf_Server.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\Server\obj\x86\Debug\xxf_Server.mainServer.resources
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV10\C#\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\Server\obj\x86\Debug\xxf_Server.exe
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\Server\obj\x86\Debug\xxf_Server.pdb
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\Server\obj\x86\Debug\xxf_Server.mainServer.resources
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\Server\bin\Debug\xxf_Server.exe
+C:\Users\xxf\Desktop\RmouseV11\RmouseV11\C#\Server\bin\Debug\xxf_Server.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\Server\obj\x86\Debug\xxf_Server.exe
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\Server\obj\x86\Debug\xxf_Server.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\Server\bin\Debug\xxf_Server.exe
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\Server\bin\Debug\xxf_Server.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\Server\obj\x86\Debug\xxf_Server.mainServer.resources
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV11\RmouseV11\C#\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\Server\obj\x86\Debug\xxf_Server.exe
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\Server\obj\x86\Debug\xxf_Server.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\Server\bin\Debug\xxf_Server.exe
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\Server\bin\Debug\xxf_Server.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\Server\obj\x86\Debug\xxf_Server.mainServer.resources
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\RmouseV12\C#\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\Server\obj\x86\Debug\xxf_Server.exe
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\Server\obj\x86\Debug\xxf_Server.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\Server\bin\Debug\xxf_Server.exe
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\Server\bin\Debug\xxf_Server.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\Server\obj\x86\Debug\xxf_Server.mainServer.resources
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV12\C#\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\Server\obj\x86\Debug\xxf_Server.exe
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\Server\obj\x86\Debug\xxf_Server.pdb
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\Server\bin\Debug\xxf_Server.exe
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\Server\bin\Debug\xxf_Server.pdb
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\Server\obj\x86\Debug\xxf_Server.mainServer.resources
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\2012fall\ece454\RmouseV14\RmouseV14\C#\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\Server\obj\x86\Debug\xxf_Server.exe
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\Server\obj\x86\Debug\xxf_Server.pdb
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\Server\bin\Debug\xxf_Server.exe
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\Server\bin\Debug\xxf_Server.pdb
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\Server\obj\x86\Debug\xxf_Server.mainServer.resources
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\2012fall\ece454\RmouseV14_yuyerev\RmouseV14\C#\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\Server\obj\x86\Debug\xxf_Server.exe
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\Server\obj\x86\Debug\xxf_Server.pdb
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\Server\bin\Debug\xxf_Server.exe
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\Server\bin\Debug\xxf_Server.pdb
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\Server\obj\x86\Debug\xxf_Server.mainServer.resources
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\2012fall\ece454\RmouseV14_yuyerev4\RmouseV14_yuyerev\RmouseV14\C#\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\Server\obj\x86\Debug\xxf_Server.exe
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\Server\obj\x86\Debug\xxf_Server.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\Server\bin\Debug\xxf_Server.exe
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\Server\bin\Debug\xxf_Server.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\Server\obj\x86\Debug\xxf_Server.mainServer.resources
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\RmouseV14_yuyerev5\RmouseV14_yuyerev\RmouseV14\C#\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\Server\obj\x86\Debug\xxf_Server.exe
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\Server\obj\x86\Debug\xxf_Server.pdb
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\Server\bin\Debug\xxf_Server.exe
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\Server\bin\Debug\xxf_Server.pdb
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\Server\obj\x86\Debug\xxf_Server.mainServer.resources
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chun\Desktop\RmouseV14_combined\C#\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chun\Desktop\Rmouse_Final\C#\Server\obj\x86\Debug\xxf_Server.exe
+C:\Users\Chun\Desktop\Rmouse_Final\C#\Server\obj\x86\Debug\xxf_Server.pdb
+C:\Users\Chun\Desktop\Rmouse_Final\C#\Server\bin\Debug\xxf_Server.exe
+C:\Users\Chun\Desktop\Rmouse_Final\C#\Server\bin\Debug\xxf_Server.pdb
+C:\Users\Chun\Desktop\Rmouse_Final\C#\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chun\Desktop\Rmouse_Final\C#\Server\obj\x86\Debug\xxf_Server.mainServer.resources
+C:\Users\Chun\Desktop\Rmouse_Final\C#\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chun\Desktop\Rmouse_Final\C#\Server\obj\x86\Debug\GenerateResource.write.1.tlog

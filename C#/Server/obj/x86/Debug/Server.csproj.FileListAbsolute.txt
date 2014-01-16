@@ -1,0 +1,15 @@
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\Tic-Tac-Toe Over Sockets Sample\C#\Server\bin\Debug\SocketsXO_Server.exe
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\Tic-Tac-Toe Over Sockets Sample\C#\Server\bin\Debug\SocketsXO_Server.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\Tic-Tac-Toe Over Sockets Sample\C#\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\Tic-Tac-Toe Over Sockets Sample\C#\Server\obj\x86\Debug\SocketsXO_Server.exe
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\Tic-Tac-Toe Over Sockets Sample\C#\Server\obj\x86\Debug\SocketsXO_Server.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\Lab3_Task1\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\Lab3_Task1\Server\bin\Debug\xxf_Server.exe
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\Lab3_Task1\Server\bin\Debug\xxf_Server.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\Lab3_Task1\Server\obj\x86\Debug\xxf_Server.exe
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\Lab3_Task1\Server\obj\x86\Debug\xxf_Server.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\myTest1\Server\obj\x86\Debug\xxf_Server.exe
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\myTest1\Server\obj\x86\Debug\xxf_Server.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\myTest1\Server\bin\Debug\xxf_Server.exe
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\myTest1\Server\bin\Debug\xxf_Server.pdb
+C:\Users\xxf\Documents\Visual Studio 2010\Projects\myTest1\Server\obj\x86\Debug\ResolveAssemblyReference.cache
